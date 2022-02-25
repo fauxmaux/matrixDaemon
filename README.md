@@ -7,10 +7,12 @@ to rotate and/or reflect matrices
 
 3. initialize a variable with a kind matrice e.g:
 
+```
 let Mx4x2 = [
   [1, 2, 3, 4],
   [5, 6, 7, 8],
 ];
+```
 
 4. use the function:
 for the 8 rotation/reflection possibilities:
