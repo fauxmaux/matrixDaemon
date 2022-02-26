@@ -1,6 +1,6 @@
 {
-  "name": "mx",
-  "version": "1.0.0",
+  "name": "matrixdaemon",
+  "version": "1.0.2",
   "description": "to rotate and/or reflect matrices",
   "main": "index.js",
   "scripts": {
