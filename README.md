@@ -1,6 +1,7 @@
 # matrixDaemon
 to rotate and/or reflect matrices
 
+
 1. npm install matrixdaemon
 
 2. in the javascript file put on the first line: const mymx = require("mx");
@@ -14,12 +15,11 @@ let Mx4x2 = [
 ];
 ```
 
-4. use the function:
-for the 8 rotation/reflection possibilities:
-
+4. use the function:<br />
+for the 8 rotation/reflection possibilities:<br />
 mymx(<matrix_variable>, <type of rotation/reflection>)
 
-exemples:
+examples:
 ```
 console.log(mymx(Mx4x2, "a"));
 console.log(mymx(Mx4x2, "b"));
@@ -46,4 +46,7 @@ Expected ouputs:
 5. enjoy
 
 6. buy me a coffee
-7. :rose: 
+
+7. 🌹
+
+
