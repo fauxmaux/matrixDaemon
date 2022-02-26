@@ -4,14 +4,17 @@ to rotate and/or reflect matrices
 
 1. npm install matrixdaemon
 
-2. in the javascript file put on the first line: const mymx = require("mx");
+2. in the javascript file put on the first line:<br />
+```
+const mymx = require("mx");
+```
 
 3. initialize a variable with a kind matrice e.g:
 
 ```
-let Mx4x2 = [
-  [1, 2, 3, 4],
-  [5, 6, 7, 8],
+let Mx4x2 = [  
+  [1, 2, 3, 4],  
+  [5, 6, 7, 8],  
 ];
 ```
 
