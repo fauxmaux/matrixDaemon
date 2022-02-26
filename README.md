@@ -17,7 +17,7 @@ let Mx4x2 = [
 
 4. use the function:<br />
 for the 8 rotation/reflection possibilities:<br />
-mymx(<matrix_variable>, <type of rotation/reflection>)
+mymx(<matrix_variable>, <["a"..."h"]type of rotation/reflection>)
 
 examples:
 ```
@@ -48,5 +48,7 @@ Expected ouputs:
 6. buy me a coffee
 
 7. 🌹
+
+
 
 
