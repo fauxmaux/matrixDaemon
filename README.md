@@ -20,7 +20,8 @@ for the 8 rotation/reflection possibilities:
 mymx(<matrix_variable>, <type of rotation/reflection>)
 
 exemples:
-```console.log(mymx(Mx4x2, "a"));
+```
+console.log(mymx(Mx4x2, "a"));
 console.log(mymx(Mx4x2, "b"));
 console.log(mymx(Mx4x2, "c"));
 console.log(mymx(Mx4x2, "d"));
